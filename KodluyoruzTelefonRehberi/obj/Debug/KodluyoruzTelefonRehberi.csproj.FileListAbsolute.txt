@@ -1,0 +1,7 @@
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\bin\Debug\KodluyoruzTelefonRehberi.exe.config
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\bin\Debug\KodluyoruzTelefonRehberi.exe
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\bin\Debug\KodluyoruzTelefonRehberi.pdb
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\obj\Debug\KodluyoruzTelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\obj\Debug\KodluyoruzTelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\obj\Debug\KodluyoruzTelefonRehberi.exe
+C:\Users\HT\source\repos\KodluyoruzTelefonRehberi\KodluyoruzTelefonRehberi\obj\Debug\KodluyoruzTelefonRehberi.pdb
